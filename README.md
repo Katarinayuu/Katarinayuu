@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">🩸 Rebecca</h1>
+
 
 <p align="center">
   <i>"Born of code, shaped by logic, refined through errors."</i>
@@ -31,14 +31,14 @@ Currently studying:
 
 ## ⚔️ Current Journey
 
-- 🧪 Creating my first projects  
-- 📊 Learning trading indicators with Pine Script  
-- 💻 Building web pages and small systems  
-- 🔥 Improving logic and problem-solving skills  
+- Creating my first projects  
+- Learning trading indicators with Pine Script  
+- Building web pages and small systems  
+- Improving logic and problem-solving skills  
 
 ---
 
-## 🧬 Tech Stack
+##  Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python)
 ![C#](https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp)
@@ -50,21 +50,11 @@ Currently studying:
 
 ---
 
-## 📊 Stats
+##  Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=tokyonight&hide_border=true" width="48%">
-</p>
-
----
-
-## 🧪 Projects
-
-- 🕯️ First 2D Game  
-- 📈 Pine Script Indicators  
-- 🌐 Personal Website  
-
+- First 2D Game  
+- Creating a wepage using HTML and CSS
+- Building basic indicators in Pine Script
 ---
 
 <p align="center">
