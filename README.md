@@ -7,12 +7,12 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Forged+in+silence...;Refined+through+failure...&center=true&width=700&color=FFFFFF&size=20">
 </p>
 <p align="center">
-🎮 Game Dev Apprentice • 📊 Pine Script Learner • 🌑 Evolving daily
+✦ Game Dev Apprentice •  ✦Pine Script Learner •  ✦Evolving daily
 </p>
 
 ---
 
-## 🕯️ About Me
+## ✦ About Me
 
 I am a programming student exploring the world of development, building projects to improve logic, discipline and technical skills.
 
@@ -27,7 +27,7 @@ Currently studying:
 
 ---
 
-## ⚔️ Current Journey
+## ✦ Current Journey
 
 - Creating my first projects  
 - Learning trading indicators with Pine Script  
@@ -36,7 +36,7 @@ Currently studying:
 
 ---
 
-##  Tech Stack
+## ✦ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python)
 ![C#](https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp)
@@ -48,13 +48,11 @@ Currently studying:
 
 ---
 
-##  Projects
+## ✦ Projects
 
 - First 2D Game  
 - Creating a wepage using HTML and CSS
 - Building basic indicators in Pine Script
 ---
 
-<p align="center">
-  ✦ "Seek knowledge. Hunt bugs. Fear nothing." ✦
-</p>
+
