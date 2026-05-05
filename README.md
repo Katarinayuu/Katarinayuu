@@ -6,11 +6,11 @@
 
 
 <p align="center">
-  <i>"Born of code, shaped by logic, refined through errors."</i>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Born+of+code,+shaped+by+logic,+refined+through+errors.&center=true&width=700&color=FFFFFF&size=20">
 </p>
 
 <p align="center">
-  🕯️ Backend Apprentice • ⚔️ Code Hunter • 🌑 In constant evolution
+🎮 Game Dev Apprentice • 📊 Pine Script Learner • 🌑 Evolving daily
 </p>
 
 ---
