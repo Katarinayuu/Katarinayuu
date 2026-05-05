@@ -3,12 +3,9 @@
 
 
 
-
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Born+of+code,+shaped+by+logic,+refined+through+errors.&center=true&width=700&color=FFFFFF&size=20">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Forged+in+silence...;Refined+through+failure...&center=true&width=700&color=FFFFFF&size=20">
 </p>
-
 <p align="center">
 🎮 Game Dev Apprentice • 📊 Pine Script Learner • 🌑 Evolving daily
 </p>
