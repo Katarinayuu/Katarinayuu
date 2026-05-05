@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-<img width="1898" height="962" alt="image" src="https://github.com/user-attachments/assets/48865841-190a-461b-9f39-456416e9a685" />
+<img width="736" height="736" alt="8031873b9911fc2920ad9aad7363ea45" src="https://github.com/user-attachments/assets/421d33f2-4e84-44ba-8a72-bb6fc50d5a2b" />
+
 
 
 **Katarinayuu/Katarinayuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
